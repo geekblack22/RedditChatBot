@@ -1,2 +1,2 @@
 # RedditChatBot
- BAsed on the GPT-2 Model rerleased by openAI
+ Based on the GPT-2 Model rerleased by openAI
