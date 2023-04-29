@@ -1,2 +1,2 @@
 # RedditChatBot
- Based on the GPT-2 Model rerleased by openAI
+ This a chat bot created from collecting ~3 million reddit comments and posts to train an opensource version of openAI's GPT-2 model.
